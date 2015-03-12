@@ -1,0 +1,3 @@
+[submodule "resources/proto"]
+	path = resources/proto
+	url = https://github.com/lsb/time-series-prediction-schema.git
